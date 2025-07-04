@@ -1,8 +1,5 @@
 # Task-8-Identify-and-Remove-Suspicious-Browser-Extensions-Elevate-labs
 VPN, encryption, privacy, tunneling protocols, network security
-# Task-8-Identify-and-Remove-Suspicious-Browser-Extensions-Elevate-labs
-VPN, encryption, privacy, tunneling protocols, network security
-
 
 This task demonstrates how to set up and test a VPN (Virtual Private Network) to protect privacy, encrypt internet traffic, and mask your IP address. The guide uses free VPN services like **ProtonVPN** or **Windscribe**, with verification steps and a benefits summary.
 
@@ -65,6 +62,7 @@ Pick one of the following:
 - Click **Connect**.
 - Wait for a successful connection confirmation.
 
+![ ](https://github.com/devalla-jwala/Task-8-Working-with-VPNs-Elevate-labs/blob/e8a4f94fc06280d59328ffc55b7c96a9dd5f18ee/2.png)
 ---
 
 ###  5. Verify Your IP Has Changed
@@ -95,6 +93,10 @@ Pick one of the following:
   
 >  **Take screenshots of both VPN ON and OFF states.**
 
+![image alt](https://github.com/devalla-jwala/Task-8-Working-with-VPNs-Elevate-labs/blob/e8a4f94fc06280d59328ffc55b7c96a9dd5f18ee/1.png)
+
+
+![image alt](https://github.com/devalla-jwala/Task-8-Working-with-VPNs-Elevate-labs/blob/e8a4f94fc06280d59328ffc55b7c96a9dd5f18ee/3.png)
 ---
 
 ###  8. Research VPN Features
@@ -147,12 +149,5 @@ Study the technical background of VPNs:
 | **Tunneling Protocol** | The method used to send your encrypted data (e.g., OpenVPN). |
 
 ---
-
-##  Deliverables
-
-- [ ] ✔ VPN setup complete
-- [ ] ✔ Connected and disconnected IP screenshots taken
-- [ ] ✔ Summary of VPN benefits and limitations written
-- [ ] ✔ Optional: Speed test comparison
 
 ---
